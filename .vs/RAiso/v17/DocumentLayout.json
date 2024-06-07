@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\BINUS\\AOL_PSD-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|h:\\binus\\aol_psd-main\\views\\customerhomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|solutionrelative:views\\customerhomepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|H:\\BINUS\\AOL_PSD-main\\views\\customerhomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|solutionrelative:views\\customerhomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|H:\\BINUS\\AOL_PSD-main\\views\\stationerydetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|solutionrelative:views\\stationerydetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|H:\\BINUS\\AOL_PSD-main\\views\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|solutionrelative:views\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|H:\\BINUS\\AOL_PSD-main\\views\\stationerydetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D34EEC7A-F0E2-468A-B56F-9C828DE78F9F}|RAiso.csproj|solutionrelative:views\\stationerydetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__BINUS_AOL_PSD_MAIN_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.MsUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerHomePage.aspx.cs",
+              "DocumentMoniker": "H:\\BINUS\\AOL_PSD-main\\Views\\CustomerHomePage.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\CustomerHomePage.aspx.cs",
+              "ToolTip": "H:\\BINUS\\AOL_PSD-main\\Views\\CustomerHomePage.aspx.cs",
+              "RelativeToolTip": "Views\\CustomerHomePage.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:33:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerHomePage.aspx",
+              "DocumentMoniker": "H:\\BINUS\\AOL_PSD-main\\Views\\CustomerHomePage.aspx",
+              "RelativeDocumentMoniker": "Views\\CustomerHomePage.aspx",
+              "ToolTip": "H:\\BINUS\\AOL_PSD-main\\Views\\CustomerHomePage.aspx",
+              "RelativeToolTip": "Views\\CustomerHomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-07T05:33:06.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "H:\\BINUS\\AOL_PSD-main\\Views\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\Cart.aspx.cs",
+              "ToolTip": "H:\\BINUS\\AOL_PSD-main\\Views\\Cart.aspx.cs",
+              "RelativeToolTip": "Views\\Cart.aspx.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:24:41.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationeryDetail.aspx.cs",
+              "DocumentMoniker": "H:\\BINUS\\AOL_PSD-main\\Views\\StationeryDetail.aspx.cs",
+              "RelativeDocumentMoniker": "Views\\StationeryDetail.aspx.cs",
+              "ToolTip": "H:\\BINUS\\AOL_PSD-main\\Views\\StationeryDetail.aspx.cs",
+              "RelativeToolTip": "Views\\StationeryDetail.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvzQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:22:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StationeryDetail.aspx",
+              "DocumentMoniker": "H:\\BINUS\\AOL_PSD-main\\Views\\StationeryDetail.aspx",
+              "RelativeDocumentMoniker": "Views\\StationeryDetail.aspx",
+              "ToolTip": "H:\\BINUS\\AOL_PSD-main\\Views\\StationeryDetail.aspx",
+              "RelativeToolTip": "Views\\StationeryDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-07T05:22:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.MsUser [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/H__BINUS_AOL_PSD_MAIN_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.MsUser.sql",
+              "ToolTip": "dbo.MsUser [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T05:12:12.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
