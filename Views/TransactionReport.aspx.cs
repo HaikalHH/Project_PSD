@@ -15,19 +15,16 @@ namespace WebApplication1.Views
         {
             if (!IsAdmin())
             {
-                // Redirect to an error page or a login page
-                Response.Redirect("~/AccessDenied.aspx");
+                Response.Redirect("~/AdminHomePage.aspx");
                 return;
             }
 
             if (!IsPostBack)
             {
-                // Load the Crystal Report
                 ReportDocument report = new ReportDocument();
                 report.Load(Server.MapPath("~/Report/CrystalReport1.rpt"));
                 CrystalReportViewer1.ReportSource = report;
 
-                // Get the data and set it as the report source
                 DataSet1 data = getData(TransactionHeaderHandler.GetListTransactionHeaders());
                 report.SetDataSource(data);
             }
